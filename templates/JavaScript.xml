@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="cns" value="console.log(&quot;$VAR$&quot;, $VAR$);" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cns1" value="console.log(&quot;$VAR$&quot;);" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="vdmp" value="echo '&lt;pre style=&quot;direction: ltr;text-align: left;&quot;&gt;';&#10;var_dump($END$);&#10;echo '&lt;/pre&gt;';&#10;die;" description="var_dump in &lt;pre&gt; tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
