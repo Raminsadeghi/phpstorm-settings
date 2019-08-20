@@ -13,6 +13,10 @@
   <action id="Git.Rebase">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="WebDeployment.BrowseServers">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
