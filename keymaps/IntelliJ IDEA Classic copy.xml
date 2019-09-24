@@ -1,0 +1,7 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+</keymap>
