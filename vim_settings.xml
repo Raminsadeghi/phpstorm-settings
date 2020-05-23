@@ -8,6 +8,7 @@
         <entry>App</entry>
         <entry>Hero</entry>
         <entry>hero</entry>
+        <entry>Validator::</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -58,86 +59,89 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/xampp/htdocs/hero/.env" timestamp="1590181543357">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="18" column="19" />
+      <file name="D:/xampp/htdocs/hero/app/Enums/MorphsMapping.php" timestamp="1590190352656">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590188198993">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
+      <file name="D:/xampp/htdocs/hero/app/Traits/Relations/UserRelationTrait.php" timestamp="1590191021487">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="29" />
       </file>
-      <file name="D:/xampp/htdocs/godady/routes/web.php" timestamp="1586118798871">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="10" />
+      <file name="D:/xampp/htdocs/hero/app/Providers/RouteServiceProvider.php" timestamp="1590190845909">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
-      <file name="D:/xampp/htdocs/hero/public/index.php" timestamp="1590170007933">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/xampp/htdocs/hero/app/Events/PasswordReset.php" timestamp="1590190454471">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="14" />
       </file>
-      <file name="D:/xampp/htdocs/hero/routes/web.php" timestamp="1590184324420">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="D:/xampp/htdocs/hero/app/Validations/Banks/ShebaValidation.php" timestamp="1590189886835">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="26" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Exceptions/APICallFailed.php" timestamp="1590185335202">
+      <file name="D:/xampp/htdocs/hero/app/Notifications/Auth/PasswordResetRequest.php" timestamp="1590189805419">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="32" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Validations/Banks/BankValidation.php" timestamp="1590189861521">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="31" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Validations/Banks/CardNumberValidation.php" timestamp="1590189868340">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="26" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Traits/Relations/WalletRelationsTrait.php" timestamp="1590191027042">
+        <mark key="[" line="2" column="20" />
+        <mark key="." line="2" column="25" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Traits/Relations/OrderTrait.php" timestamp="1590191009468">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="29" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Providers/ValidationServiceProvider.php" timestamp="1590190130951">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="33" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Console/Commands/stubs/validation.stub" timestamp="1590190270912">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="8" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Console/Commands/Validation.php" timestamp="1590190253003">
         <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Channel/Sms.php" timestamp="1590185981514">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="27" />
-      </file>
-      <file name="D:/xampp/htdocs/godady/resources/views/godady.blade.php" timestamp="1586193198848">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="^" line="20" column="38" />
-        <mark key="." line="21" column="44" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/README.md" timestamp="1590183132568">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="40" />
-        <mark key="^" line="2" column="40" />
-      </file>
-      <file name="D:/xampp/htdocs/godady/resources/views/index.blade.php" timestamp="1586118946818">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="6" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="39" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Models/User.php" timestamp="1590181329572">
-        <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="14" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="14" />
       </file>
-      <file name="D:/xampp/htdocs/hero/composer.lock" timestamp="1590182118849">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="13" />
-        <mark key="^" line="21" column="13" />
-        <mark key="." line="21" column="13" />
+      <file name="D:/xampp/htdocs/hero/app/Events/MobileVerified.php" timestamp="1590190418935">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="14" />
       </file>
-      <file name="D:/xampp/htdocs/hero/routes/api.php" timestamp="1590184974415">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="23" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Providers/RouteServiceProvider.php" timestamp="1590184603777">
-        <mark key="[" line="74" column="26" />
-        <mark key="]" line="74" column="28" />
-        <mark key="^" line="74" column="28" />
-        <mark key="." line="74" column="28" />
+      <file name="D:/xampp/htdocs/hero/app/Validations/Banks/PayReasonValidation.php" timestamp="1590189877123">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -149,48 +153,50 @@
       <jump line="6" column="111" filename="D:/xampp/htdocs/hero/README.md" />
       <jump line="0" column="0" filename="D:/xampp/htdocs/hero/README.md" />
       <jump line="77" column="0" filename="D:/xampp/htdocs/hero/README.md" />
+      <jump line="6" column="6" filename="D:/xampp/htdocs/hero/app/Validations/Banks/PayReasonValidation.php" />
+      <jump line="35" column="0" filename="D:/xampp/htdocs/hero/app/Providers/ValidationServiceProvider.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>App</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>App</text>
       </register>
       <register name="/" type="4">
-        <text>hero</text>
+        <text>Validator::</text>
       </register>
       <register name="0" type="4">
-        <text>APICallFailed</text>
+        <text>lidator::extend('mobileO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL2FwaS92MS9hdXRoL3NpZ251cCcsIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiAnc2lnbnVwJzsKICAgIHJldHVybiB2aWV3KCd3ZWxjb21lJyk7Cn0pOwo=</text>
+        <text encoding="base64">ZGogICAgICAgIFJvdXRlOjpwcmVmaXgoJ2FwaS92MScpCiAgICAgICAgICAgIC0+bWlkZGxld2FyZSgnYXBpJykKICAgICAgICAgICAgLT5uYW1lc3BhY2UoJHRoaXMtPm5hbWVzcGFjZSkKICAgICAgICAgICAgLT5ncm91cChiYXNlX3BhdGgoJ3JvdXRlcy9hcGkucGhwJykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHAgYWxpZ249ImNlbnRlciI+PGltZyBzcmM9Imh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2R0ZmJ2dmt5cC9pbWFnZS91cGxvYWQvdjE1NjYzMzEzNzcvbGFyYXZlbC1sb2dvbG9ja3VwLWNteWstcmVkLnN2ZyIgd2lkdGg9IjQwMCI+PC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CjxhIGhyZWY9Imh0dHBzOi8vdHJhdmlzLWNpLm9yZy9sYXJhdmVsL2ZyYW1ld29yayI+PGltZyBzcmM9Imh0dHBzOi8vdHJhdmlzLWNpLm9yZy9sYXJhdmVsL2ZyYW1ld29yay5zdmciIGFsdD0iQnVpbGQgU3RhdHVzIj48L2E+CjxhIGhyZWY9Imh0dHBzOi8vcGFja2FnaXN0Lm9yZy9wYWNrYWdlcy9sYXJhdmVsL2ZyYW1ld29yayI+PGltZyBzcmM9Imh0dHBzOi8vcG9zZXIucHVneC5vcmcvbGFyYXZlbC9mcmFtZXdvcmsvZC90b3RhbC5zdmciIGFsdD0iVG90YWwgRG93bmxvYWRzIj48L2E+CjxhIGhyZWY9Imh0dHBzOi8vcGFja2FnaXN0Lm9yZy9wYWNrYWdlcy9sYXJhdmVsL2ZyYW1ld29yayI+PGltZyBzcmM9Imh0dHBzOi8vcG9zZXIucHVneC5vcmcvbGFyYXZlbC9mcmFtZXdvcmsvdi9zdGFibGUuc3ZnIiBhbHQ9IkxhdGVzdCBTdGFibGUgVmVyc2lvbiI+PC9hPgo8YSBocmVmPSJodHRwczovL3BhY2thZ2lzdC5vcmcvcGFja2FnZXMvbGFyYXZlbC9mcmFtZXdvcmsiPjxpbWcgc3JjPSJodHRwczovL3Bvc2VyLnB1Z3gub3JnL2xhcmF2ZWwvZnJhbWV3b3JrL2xpY2Vuc2Uuc3ZnIiBhbHQ9IkxpY2Vuc2UiPjwvYT4KPC9wPgoKIyMgQWJvdXQgTGFyYXZlbAoKTGFyYXZlbCBpcyBhIHdlYiBhcHBsaWNhdGlvbiBmcmFtZXdvcmsgd2l0aCBleHByZXNzaXZlLCBlbGVnYW50IHN5bnRheC4gV2UgYmVsaWV2ZSBkZXZlbG9wbWVudCBtdXN0IGJlIGFuIGVuam95YWJsZSBhbmQgY3JlYXRpdmUgZXhwZXJpZW5jZSB0byBiZSB0cnVseSBmdWxmaWxsaW5nLiBMYXJhdmVsIHRha2VzIHRoZSBwYWluIG91dCBvZiBkZXZlbG9wbWVudCBieSBlYXNpbmcgY29tbW9uIHRhc2tzIHVzZWQgaW4gbWFueSB3ZWIgcHJvamVjdHMsIHN1Y2ggYXM6CgotIFtTaW1wbGUsIGZhc3Qgcm91dGluZyBlbmdpbmVdKGh0dHBzOi8vbGFyYXZlbC5jb20vZG9jcy9yb3V0aW5nKS4KLSBbUG93ZXJmdWwgZGVwZW5kZW5jeSBpbmplY3Rpb24gY29udGFpbmVyXShodHRwczovL2xhcmF2ZWwuY29tL2RvY3MvY29udGFpbmVyKS4KLSBNdWx0aXBsZSBiYWNrLWVuZHMgZm9yIFtzZXNzaW9uXShodHRwczovL2xhcmF2ZWwuY29tL2RvY3Mvc2Vzc2lvbikgYW5kIFtjYWNoZV0oaHR0cHM6Ly9sYXJhdmVsLmNvbS9kb2NzL2NhY2hlKSBzdG9yYWdlLgotIEV4cHJlc3NpdmUsIGludHVpdGl2ZSBbZGF0YWJhc2UgT1JNXShodHRwczovL2xhcmF2ZWwuY29tL2RvY3MvZWxvcXVlbnQpLgotIERhdGFiYXNlIGFnbm9zdGljIFtzY2hlbWEgbWlncmF0aW9uc10oaHR0cHM6Ly9sYXJhdmVsLmNvbS9kb2NzL21pZ3JhdGlvbnMpLgotIFtSb2J1c3QgYmFja2dyb3VuZCBqb2IgcHJvY2Vzc2luZ10oaHR0cHM6Ly9sYXJhdmVsLmNvbS9kb2NzL3F1ZXVlcykuCi0gW1JlYWwtdGltZSBldmVudCBicm9hZGNhc3RpbmddKGh0dHBzOi8vbGFyYXZlbC5jb20vZG9jcy9icm9hZGNhc3RpbmcpLgoKTGFyYXZlbCBpcyBhY2Nlc3NpYmxlLCBwb3dlcmZ1bCwgYW5kIHByb3ZpZGVzIHRvb2xzIHJlcXVpcmVkIGZvciBsYXJnZSwgcm9idXN0IGFwcGxpY2F0aW9ucy4KCiMjIExlYXJuaW5nIExhcmF2ZWwKCkxhcmF2ZWwgaGFzIHRoZSBtb3N0IGV4dGVuc2l2ZSBhbmQgdGhvcm91Z2ggW2RvY3VtZW50YXRpb25dKGh0dHBzOi8vbGFyYXZlbC5jb20vZG9jcykgYW5kIHZpZGVvIHR1dG9yaWFsIGxpYnJhcnkgb2YgYWxsIG1vZGVybiB3ZWIgYXBwbGljYXRpb24gZnJhbWV3b3JrcywgbWFraW5nIGl0IGEgYnJlZXplIHRvIGdldCBzdGFydGVkIHdpdGggdGhlIGZyYW1ld29yay4KCklmIHlvdSBkb24ndCBmZWVsIGxpa2UgcmVhZGluZywgW0xhcmFjYXN0c10oaHR0cHM6Ly9sYXJhY2FzdHMuY29tKSBjYW4gaGVscC4gTGFyYWNhc3RzIGNvbnRhaW5zIG92ZXIgMTUwMCB2aWRlbyB0dXRvcmlhbHMgb24gYSByYW5nZSBvZiB0b3BpY3MgaW5jbHVkaW5nIExhcmF2ZWwsIG1vZGVybiBQSFAsIHVuaXQgdGVzdGluZywgYW5kIEphdmFTY3JpcHQuIEJvb3N0IHlvdXIgc2tpbGxzIGJ5IGRpZ2dpbmcgaW50byBvdXIgY29tcHJlaGVuc2l2ZSB2aWRlbyBsaWJyYXJ5LgoKIyMgTGFyYXZlbCBTcG9uc29ycwoKV2Ugd291bGQgbGlrZSB0byBleHRlbmQgb3VyIHRoYW5rcyB0byB0aGUgZm9sbG93aW5nIHNwb25zb3JzIGZvciBmdW5kaW5nIExhcmF2ZWwgZGV2ZWxvcG1lbnQuIElmIHlvdSBhcmUgaW50ZXJlc3RlZCBpbiBiZWNvbWluZyBhIHNwb25zb3IsIHBsZWFzZSB2aXNpdCB0aGUgTGFyYXZlbCBbUGF0cmVvbiBwYWdlXShodHRwczovL3BhdHJlb24uY29tL3RheWxvcm90d2VsbCkuCgotICoqW1ZlaGlrbF0oaHR0cHM6Ly92ZWhpa2wuY29tLykqKgotICoqW1RpZ2h0ZW4gQ28uXShodHRwczovL3RpZ2h0ZW4uY28pKioKLSAqKltLaXJzY2hiYXVtIERldmVsb3BtZW50IEdyb3VwXShodHRwczovL2tpcnNjaGJhdW1kZXZlbG9wbWVudC5jb20pKioKLSAqKls2NCBSb2JvdHNdKGh0dHBzOi8vNjRyb2JvdHMuY29tKSoqCi0gKipbQ3ViZXQgVGVjaG5vIExhYnNdKGh0dHBzOi8vY3ViZXR0ZWNoLmNvbSkqKgotICoqW0N5YmVyLUR1Y2tdKGh0dHBzOi8vY3liZXItZHVjay5jby51aykqKgotICoqW01hbnldKGh0dHBzOi8vd3d3Lm1hbnkuY28udWspKioKLSAqKltXZWJkb2NrLCBGYXN0IFZQUyBIb3N0aW5nXShodHRwczovL3d3dy53ZWJkb2NrLmlvL2VuKSoqCi0gKipbRGV2U3F1YWRdKGh0dHBzOi8vZGV2c3F1YWQuY29tKSoqCi0gW1VzZXJJbnNpZ2h0c10oaHR0cHM6Ly91c2VyaW5zaWdodHMuY29tKQotIFtGcmFncmFudGljYV0oaHR0cHM6Ly93d3cuZnJhZ3JhbnRpY2EuY29tKQotIFtTT0ZUb25TT0ZBXShodHRwczovL3NvZnRvbnNvZmEuY29tLykKLSBbVXNlcjEwXShodHRwczovL3VzZXIxMC5jb20pCi0gW1NvdW1ldHRyZS5mcl0oaHR0cHM6Ly9zb3VtZXR0cmUuZnIvKQotIFtDb2RlQnJpc2tdKGh0dHBzOi8vY29kZWJyaXNrLmNvbSkKLSBbMUZvcmdlXShodHRwczovLzFmb3JnZS5jb20pCi0gW1RFQ1BSRVNTT10oaHR0cHM6Ly90ZWNwcmVzc28uY28uanAvKQotIFtSdW50aW1lIENvbnZlcnRlcl0oaHR0cDovL3J1bnRpbWVjb252ZXJ0ZXIuY29tLykKLSBbV2ViTCdBZ2VuY2VdKGh0dHBzOi8vd2VibGFnZW5jZS5jb20vKQotIFtJbnZvaWNlIE5pbmphXShodHRwczovL3d3dy5pbnZvaWNlbmluamEuY29tKQotIFtpTWkgZGlnaXRhbF0oaHR0cHM6Ly93d3cuaW1pLWRpZ2l0YWwuZGUvKQotIFtFYXJ0aGxpbmtdKGh0dHBzOi8vd3d3LmVhcnRobGluay5yby8pCi0gW1N0ZWFkZmFzdCBDb2xsZWN0aXZlXShodHRwczovL3N0ZWFkZmFzdGNvbGxlY3RpdmUuY29tLykKLSBbV2UgQXJlIFRoZSBSb2JvdHMgSW5jLl0oaHR0cHM6Ly93YXRyLm14LykKLSBbVW5kZXJzdGFuZC5pb10oaHR0cHM6Ly93d3cudW5kZXJzdGFuZC5pby8pCi0gW0FiZGVsIEVscmFmYV0oaHR0cHM6Ly9hYmRlbGVscmFmYS5jb20pCi0gW0h5cGVyIEhvc3RdKGh0dHBzOi8vaHlwZXIuaG9zdCkKLSBbQXBwb2x5XShodHRwczovL3d3dy5hcHBvbHkuY28udWspCi0gW09QLkdHXShodHRwczovL29wLmdnKQotIFs/Pz8/XShodHRwOi8vd3d3Lnl1bnJ1YW4ubHRkLykKCiMjIENvbnRyaWJ1dGluZwoKVGhhbmsgeW91IGZvciBjb25zaWRlcmluZyBjb250cmlidXRpbmcgdG8gdGhlIExhcmF2ZWwgZnJhbWV3b3JrISBUaGUgY29udHJpYnV0aW9uIGd1aWRlIGNhbiBiZSBmb3VuZCBpbiB0aGUgW0xhcmF2ZWwgZG9jdW1lbnRhdGlvbl0oaHR0cHM6Ly9sYXJhdmVsLmNvbS9kb2NzL2NvbnRyaWJ1dGlvbnMpLgoKIyMgQ29kZSBvZiBDb25kdWN0CgpJbiBvcmRlciB0byBlbnN1cmUgdGhhdCB0aGUgTGFyYXZlbCBjb21tdW5pdHkgaXMgd2VsY29taW5nIHRvIGFsbCwgcGxlYXNlIHJldmlldyBhbmQgYWJpZGUgYnkgdGhlIFtDb2RlIG9mIENvbmR1Y3RdKGh0dHBzOi8vbGFyYXZlbC5jb20vZG9jcy9jb250cmlidXRpb25zI2NvZGUtb2YtY29uZHVjdCkuCgojIyBTZWN1cml0eSBWdWxuZXJhYmlsaXRpZXMKCklmIHlvdSBkaXNjb3ZlciBhIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdHkgd2l0aGluIExhcmF2ZWwsIHBsZWFzZSBzZW5kIGFuIGUtbWFpbCB0byBUYXlsb3IgT3R3ZWxsIHZpYSBbdGF5bG9yQGxhcmF2ZWwuY29tXShtYWlsdG86dGF5bG9yQGxhcmF2ZWwuY29tKS4gQWxsIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdGllcyB3aWxsIGJlIHByb21wdGx5IGFkZHJlc3NlZC4KCiMjIExpY2Vuc2UKClRoZSBMYXJhdmVsIGZyYW1ld29yayBpcyBvcGVuLXNvdXJjZWQgc29mdHdhcmUgbGljZW5zZWQgdW5kZXIgdGhlIFtNSVQgbGljZW5zZV0oaHR0cHM6Ly9vcGVuc291cmNlLm9yZy9saWNlbnNlcy9NSVQpLgo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEJyb2FkY2FzdGluZ1xTaG91bGRCcm9hZGNhc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAnPGgxPk5HSU5YPC9oMT4nOwpkaWUoJ2hpJyk7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQnJvYWRjYXN0aW5nXFByaXZhdGVDaGFubmVsOwp1c2UgSWxsdW1pbmF0ZVxCcm9hZGNhc3RpbmdcUHJlc2VuY2VDaGFubmVsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0ibGVhZCI+PC9wPgogICAgICAgIDxociBjbGFzcz0ibXktNCI+CiAgICAgICAgPHA+SXQgdXNlcyB1dGlsaXR5IGNsYXNzZXMgZm9yIHR5cG9ncmFwaHkgYW5kIHNwYWNpbmcgdG8gc3BhY2UgY29udGVudCBvdXQgd2l0aGluIHRoZSBsYXJnZXIgY29udGFpbmVyLjwvcD4KICAgICAgICA8cCBjbGFzcz0ibGVhZCI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLWxnIiBocmVmPSIjIiByb2xlPSJidXR0b24iPkxlYXJuIG1vcmU8L2E+CiAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQnJvYWRjYXN0aW5nXENoYW5uZWw7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICA8ZGl2IGNsYXNzPSJyb3cgaC0xMDAganVzdGlmeS1jb250ZW50LWNlbnRlciBhbGlnbi1pdGVtcy1jZW50ZXIiPgogICAgICAgIDxmb3JtIGNsYXNzPSJjb2wtMTIgbXktYXV0byIgbWV0aG9kPSJwb3N0Ij4KICAgICAgICAgICAgQGNzcmYKICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBtdC05Ij4KICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9InVzZXItbm90ZSI+Pz8/PyA/Pz8gPz8/Pz8/ID8/ID8/Pz8/PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0idXNlci1ub3RlIiBwbGFjZWhvbGRlcj0iPz8gPz8gPz8/Pz8iPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSI/Pz8iPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Zvcm0+CiAgICA8L2Rpdj4K</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcU2hvcDsKdXNlIEFwcFxNb2RlbHNcUHVyY2hhc2VQYXltZW50Owp1c2UgQXBwXE1vZGVsc1xXaXRoZHJhd1JlcXVlc3Q7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJycK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFdpdGhkcmF3UmVxdWVzdCA9ICd3aXRoZHJhd1JlcXVlc3QnOwogICAgY29uc3QgUHVyY2hhc2VQYXltZW50ID0gJ3B1cmNoYXNlUGF5bWVudCc7CiAgICBjb25zdCBTYWxlID0gJ3NhbGUnOwogICAgY29uc3QgVHJhbnNhY3Rpb24gPSAndHJhbnNhY3Rpb24nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vc3RhY2twYXRoLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMS4zL2pzL2Jvb3RzdHJhcC5taW4uanMiIGludGVncml0eT0ic2hhMzg0LUNoZnFxeHVaVUNuSlNLMytNWG1QTkl5RTZaYldoMklNcUUyNDFyWWlxSnh5TWlaNk9XL0ptWlE1c3R3RVVMVHkiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IFNob3AgPSAnc2hvcCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9zdGFja3BhdGguYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvNC4xLjMvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiBpbnRlZ3JpdHk9InNoYTM4NC1NQ3c5OC9TRm5HRThmSlQzR1h3RU9uZ3NWN1p0MjdOWEZvYW9BcG1ZbTgxaXVYb1BrRk9Kd0o4RVJka25MUE1PIiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4K</text>
+        <text encoding="base64">bmFtZXNwYWNlIEhlcm9cTm90aWZpY2F0aW9uczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -199,9 +205,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hero</last-search>
+      <last-search>Validator::</last-search>
       <last-offset />
-      <last-pattern>hero</last-pattern>
+      <last-pattern>Validator::</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
