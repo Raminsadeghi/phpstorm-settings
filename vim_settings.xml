@@ -10,6 +10,12 @@
         <entry>hero</entry>
         <entry>Validator::</entry>
         <entry encoding="base64">XDwuXD4=</entry>
+        <entry>LoginCOn</entry>
+        <entry>LoginCon</entry>
+        <entry>name</entry>
+        <entry>auth</entry>
+        <entry>mobile</entry>
+        <entry>Profiles</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -55,27 +61,48 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/xampp/htdocs/hero/app/Enums/MorphsMapping.php" timestamp="1590190352656">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="15" />
-      </file>
       <file name="D:/xampp/htdocs/hero/app/Listeners/PasswordReset/RevokeOldTokens.php" timestamp="1590226985566">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Traits/Relations/UserRelationTrait.php" timestamp="1590191021487">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="29" />
+      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/Auth/PasswordResetController.php" timestamp="1590269585952">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="2" column="37" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Http/Requestes/GetMobileRequest.php" timestamp="1590270854942">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="18" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/ProfilesController.php" timestamp="1590271276376">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/resources/lang/fa/voyager.php" timestamp="1590268537217">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="D:/xampp/htdocs/hero/app/Listeners/PasswordReset/RefreshToken.php" timestamp="1590226978754">
         <mark key="[" line="2" column="0" />
@@ -83,73 +110,52 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Providers/RouteServiceProvider.php" timestamp="1590190845909">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/Auth/MobilesVerificationController.php" timestamp="1590270818802">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="19" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Events/PasswordReset.php" timestamp="1590190454471">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="14" />
+      <file name="D:/xampp/htdocs/hero/app/Http/Kernel.php" timestamp="1590270181820">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590227111730">
+      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/RatingsController.php" timestamp="1590271450037">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="17" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/Auth/PasswordResetController.php" timestamp="1590269663221">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="42" />
+        <mark key="^" line="2" column="42" />
+        <mark key="." line="2" column="41" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/resources/lang/fa/enums.php" timestamp="1590268433861">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/resources/lang/en/enums.php" timestamp="1590268325532">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/routes/api-versions/v1.php" timestamp="1590271318008">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="54" />
+        <mark key="." line="18" column="53" />
+        <mark key="^" line="18" column="54" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590270259538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="19" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Validations/Banks/ShebaValidation.php" timestamp="1590189886835">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="26" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Traits/Relations/WalletRelationsTrait.php" timestamp="1590191027042">
-        <mark key="[" line="2" column="20" />
-        <mark key="." line="2" column="25" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/composer.json" timestamp="1590226764633">
-        <mark key="'" line="17" column="32" />
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="36" />
-        <mark key="." line="17" column="30" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Traits/Relations/OrderTrait.php" timestamp="1590191009468">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="29" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Traits/Images/UserNationalCardImageTrait.php" timestamp="1590191520975">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="26" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Providers/ValidationServiceProvider.php" timestamp="1590190130951">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="33" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Console/Commands/stubs/validation.stub" timestamp="1590190270912">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="4" column="8" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Console/Commands/Validation.php" timestamp="1590190253003">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="14" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Events/MobileVerified.php" timestamp="1590190418935">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -164,56 +170,57 @@
       <jump line="6" column="6" filename="D:/xampp/htdocs/hero/app/Validations/Banks/PayReasonValidation.php" />
       <jump line="35" column="0" filename="D:/xampp/htdocs/hero/app/Providers/ValidationServiceProvider.php" />
       <jump line="17" column="32" filename="D:/xampp/htdocs/hero/composer.json" />
+      <jump line="0" column="4" filename="D:/xampp/htdocs/hero/resources/lang/en/enums.php" />
+      <jump line="139" column="1" filename="D:/xampp/htdocs/hero/resources/lang/en/enums.php" />
+      <jump line="49" column="0" filename="D:/xampp/htdocs/hero/resources/lang/en/enums.php" />
+      <jump line="28" column="0" filename="D:/xampp/htdocs/hero/app/Http/Controllers/Auth/PasswordResetController.php" />
+      <jump line="91" column="4" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
+      <jump line="104" column="32" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
+      <jump line="2" column="0" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
+      <jump line="89" column="27" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
+      <jump line="61" column="0" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>- Change laravel v0ersion to 6.5.*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEhlcm9cSHR0cFxSZXNvdXJjZXNcUHVyY2hhc2VSZXNvdXJjZTsKdXNlIEhlcm9cSHR0cFxNaWRkbGV3YXJlXE1vZGVsTGlzdFxGaWx0ZXJzXFVzZXJOYW1lRmlsdGVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>- Change laravel v0ersion to 6.5.*</text>
+        <text>because o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwuXD4=</text>
+        <text>Profiles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bmFtZXNwYWNlIEhlcm9cTGlzdGVuZXJzXFBhc3N3b3JkUmVzZXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>- Add Enum package
-- Add Keygen packag\PasswordReset\PasswordResetke
-- Add bank gateways
-- Add Parsian back gateway
-- Add Rules
-- Add Validations
-- Add CodeGenerator Model
-- Add MobileVerification Model
-- Add a helper php functions file</text>
+        <text encoding="base64">dXNlIEhlcm9cSHR0cFxSZXNvdXJjZXNcUHVyY2hhc2VSZXNvdXJjZTsKdXNlIEhlcm9cSHR0cFxNaWRkbGV3YXJlXE1vZGVsTGlzdFxGaWx0ZXJzXFVzZXJOYW1lRmlsdGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEhlcm9cTGlzdGVuZXJzOwo=</text>
+        <text encoding="base64">dXNlIEhlcm9cTW9kZWxzXEZpbHRlcnNcUHVyY2hhc2VGaWx0ZXI7CnVzZSBIZXJvXEh0dHBcUmVzb3VyY2VzXEFkZHJlc3NSZXNvdXJjZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEhlcm9cTW9kZWxzXFB1cmNoYXNlUGF5bWVudDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGogICAgICAgIFJvdXRlOjpwcmVmaXgoJ2FwaS92MScpCiAgICAgICAgICAgIC0+bWlkZGxld2FyZSgnYXBpJykKICAgICAgICAgICAgLT5uYW1lc3BhY2UoJHRoaXMtPm5hbWVzcGFjZSkKICAgICAgICAgICAgLT5ncm91cChiYXNlX3BhdGgoJ3JvdXRlcy9hcGkucGhwJykpOwo=</text>
+        <text encoding="base64">dXNlIEhlcm9cRW51bXNcUHVyY2hhc2VTdGF0dXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEJyb2FkY2FzdGluZ1xTaG91bGRCcm9hZGNhc3Q7Cg==</text>
+        <text encoding="base64">dXNlIEhlcm9cTW9kZWxzXFNob3A7CnVzZSBIZXJvXE1vZGVsc1xPcmRlcjsKdXNlIEhlcm9cTW9kZWxzXFB1cmNoYXNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQnJvYWRjYXN0aW5nXFByaXZhdGVDaGFubmVsOwp1c2UgSWxsdW1pbmF0ZVxCcm9hZGNhc3RpbmdcUHJlc2VuY2VDaGFubmVsOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBVc2VyIEF1dGggZG9lc24ndCBub3QgY2hlY2tlZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQnJvYWRjYXN0aW5nXENoYW5uZWw7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5yb3V0ZSgpLT51cmkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcU2hvcDsKdXNlIEFwcFxNb2RlbHNcUHVyY2hhc2VQYXltZW50Owp1c2UgQXBwXE1vZGVsc1xXaXRoZHJhd1JlcXVlc3Q7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFdpdGhkcmF3UmVxdWVzdCA9ICd3aXRoZHJhd1JlcXVlc3QnOwogICAgY29uc3QgUHVyY2hhc2VQYXltZW50ID0gJ3B1cmNoYXNlUGF5bWVudCc7CiAgICBjb25zdCBTYWxlID0gJ3NhbGUnOwogICAgY29uc3QgVHJhbnNhY3Rpb24gPSAndHJhbnNhY3Rpb24nOwo=</text>
+        <text encoding="base64">Ly8gICAgUm91dGU6Omdyb3VwKFsncHJlZml4JyA9PiAnYmFua3MnXSwgZnVuY3Rpb24gKCkgewovLyAgICAgICAgUm91dGU6OnBvc3QoJycsICdCYW5rQWNjb3VudHNDb250cm9sbGVyQHN0b3JlJyk7Ci8vICAgICAgICBSb3V0ZTo6Z2V0KCcnLCAnQmFua0FjY291bnRzQ29udHJvbGxlckBzaG93Jyk7Ci8vICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -222,9 +229,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDwuXD4=</last-search>
+      <last-search>Profiles</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwuXD4=</last-pattern>
+      <last-pattern>Profiles</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
