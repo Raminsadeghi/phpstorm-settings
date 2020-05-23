@@ -16,6 +16,7 @@
         <entry>auth</entry>
         <entry>mobile</entry>
         <entry>Profiles</entry>
+        <entry>illu</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -104,12 +105,6 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Listeners/PasswordReset/RefreshToken.php" timestamp="1590226978754">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="2" column="37" />
-      </file>
       <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/Auth/MobilesVerificationController.php" timestamp="1590270818802">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="24" column="20" />
@@ -157,6 +152,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="19" />
       </file>
+      <file name="D:/xampp/htdocs/hero/app/Models/Rating.php" timestamp="1590271495166" />
     </filemarks>
     <jumps>
       <jump line="22" column="38" filename="D:/xampp/htdocs/godady/resources/views/index.blade.php" />
@@ -190,7 +186,7 @@
         <text>because o</text>
       </register>
       <register name="/" type="4">
-        <text>Profiles</text>
+        <text>illu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bmFtZXNwYWNlIEhlcm9cTGlzdGVuZXJzXFBhc3N3b3JkUmVzZXQ7Cg==</text>
@@ -229,9 +225,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Profiles</last-search>
+      <last-search>illu</last-search>
       <last-offset />
-      <last-pattern>Profiles</last-pattern>
+      <last-pattern>illu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
