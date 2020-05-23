@@ -9,6 +9,7 @@
         <entry>Hero</entry>
         <entry>hero</entry>
         <entry>Validator::</entry>
+        <entry encoding="base64">XDwuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -65,11 +66,22 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="15" />
       </file>
+      <file name="D:/xampp/htdocs/hero/app/Listeners/PasswordReset/RevokeOldTokens.php" timestamp="1590226985566">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="D:/xampp/htdocs/hero/app/Traits/Relations/UserRelationTrait.php" timestamp="1590191021487">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="30" />
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="29" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Listeners/PasswordReset/RefreshToken.php" timestamp="1590226978754">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="37" />
       </file>
       <file name="D:/xampp/htdocs/hero/app/Providers/RouteServiceProvider.php" timestamp="1590190845909">
         <mark key="[" line="78" column="0" />
@@ -82,24 +94,13 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="14" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590227111730">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="19" />
+      </file>
       <file name="D:/xampp/htdocs/hero/app/Validations/Banks/ShebaValidation.php" timestamp="1590189886835">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="26" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Notifications/Auth/PasswordResetRequest.php" timestamp="1590189805419">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="32" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Validations/Banks/BankValidation.php" timestamp="1590189861521">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="32" />
-        <mark key="." line="2" column="31" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/app/Validations/Banks/CardNumberValidation.php" timestamp="1590189868340">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="26" />
@@ -108,11 +109,24 @@
         <mark key="[" line="2" column="20" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="D:/xampp/htdocs/hero/composer.json" timestamp="1590226764633">
+        <mark key="'" line="17" column="32" />
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="30" />
+      </file>
       <file name="D:/xampp/htdocs/hero/app/Traits/Relations/OrderTrait.php" timestamp="1590191009468">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="30" />
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="29" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Traits/Images/UserNationalCardImageTrait.php" timestamp="1590191520975">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="D:/xampp/htdocs/hero/app/Providers/ValidationServiceProvider.php" timestamp="1590190130951">
         <mark key="'" line="35" column="0" />
@@ -137,12 +151,6 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Validations/Banks/PayReasonValidation.php" timestamp="1590189877123">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="26" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="38" filename="D:/xampp/htdocs/godady/resources/views/index.blade.php" />
@@ -155,48 +163,57 @@
       <jump line="77" column="0" filename="D:/xampp/htdocs/hero/README.md" />
       <jump line="6" column="6" filename="D:/xampp/htdocs/hero/app/Validations/Banks/PayReasonValidation.php" />
       <jump line="35" column="0" filename="D:/xampp/htdocs/hero/app/Providers/ValidationServiceProvider.php" />
+      <jump line="17" column="32" filename="D:/xampp/htdocs/hero/composer.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>- Change laravel v0ersion to 6.5.*</text>
       </register>
       <register name="-" type="4">
-        <text>App</text>
+        <text>- Change laravel v0ersion to 6.5.*</text>
       </register>
       <register name="/" type="4">
-        <text>Validator::</text>
+        <text encoding="base64">XDwuXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>lidator::extend('mobileO</text>
+      <register name="0" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIEhlcm9cTGlzdGVuZXJzXFBhc3N3b3JkUmVzZXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>- Add Enum package
+- Add Keygen packag\PasswordReset\PasswordResetke
+- Add bank gateways
+- Add Parsian back gateway
+- Add Rules
+- Add Validations
+- Add CodeGenerator Model
+- Add MobileVerification Model
+- Add a helper php functions file</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGogICAgICAgIFJvdXRlOjpwcmVmaXgoJ2FwaS92MScpCiAgICAgICAgICAgIC0+bWlkZGxld2FyZSgnYXBpJykKICAgICAgICAgICAgLT5uYW1lc3BhY2UoJHRoaXMtPm5hbWVzcGFjZSkKICAgICAgICAgICAgLT5ncm91cChiYXNlX3BhdGgoJ3JvdXRlcy9hcGkucGhwJykpOwo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIEhlcm9cTGlzdGVuZXJzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEJyb2FkY2FzdGluZ1xTaG91bGRCcm9hZGNhc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQnJvYWRjYXN0aW5nXFByaXZhdGVDaGFubmVsOwp1c2UgSWxsdW1pbmF0ZVxCcm9hZGNhc3RpbmdcUHJlc2VuY2VDaGFubmVsOwo=</text>
+        <text encoding="base64">ZGogICAgICAgIFJvdXRlOjpwcmVmaXgoJ2FwaS92MScpCiAgICAgICAgICAgIC0+bWlkZGxld2FyZSgnYXBpJykKICAgICAgICAgICAgLT5uYW1lc3BhY2UoJHRoaXMtPm5hbWVzcGFjZSkKICAgICAgICAgICAgLT5ncm91cChiYXNlX3BhdGgoJ3JvdXRlcy9hcGkucGhwJykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQnJvYWRjYXN0aW5nXENoYW5uZWw7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEJyb2FkY2FzdGluZ1xTaG91bGRCcm9hZGNhc3Q7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcU2hvcDsKdXNlIEFwcFxNb2RlbHNcUHVyY2hhc2VQYXltZW50Owp1c2UgQXBwXE1vZGVsc1xXaXRoZHJhd1JlcXVlc3Q7Cgo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQnJvYWRjYXN0aW5nXFByaXZhdGVDaGFubmVsOwp1c2UgSWxsdW1pbmF0ZVxCcm9hZGNhc3RpbmdcUHJlc2VuY2VDaGFubmVsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFdpdGhkcmF3UmVxdWVzdCA9ICd3aXRoZHJhd1JlcXVlc3QnOwogICAgY29uc3QgUHVyY2hhc2VQYXltZW50ID0gJ3B1cmNoYXNlUGF5bWVudCc7CiAgICBjb25zdCBTYWxlID0gJ3NhbGUnOwogICAgY29uc3QgVHJhbnNhY3Rpb24gPSAndHJhbnNhY3Rpb24nOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQnJvYWRjYXN0aW5nXENoYW5uZWw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFNob3AgPSAnc2hvcCc7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcU2hvcDsKdXNlIEFwcFxNb2RlbHNcUHVyY2hhc2VQYXltZW50Owp1c2UgQXBwXE1vZGVsc1xXaXRoZHJhd1JlcXVlc3Q7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEhlcm9cTm90aWZpY2F0aW9uczsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFdpdGhkcmF3UmVxdWVzdCA9ICd3aXRoZHJhd1JlcXVlc3QnOwogICAgY29uc3QgUHVyY2hhc2VQYXltZW50ID0gJ3B1cmNoYXNlUGF5bWVudCc7CiAgICBjb25zdCBTYWxlID0gJ3NhbGUnOwogICAgY29uc3QgVHJhbnNhY3Rpb24gPSAndHJhbnNhY3Rpb24nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -205,9 +222,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Validator::</last-search>
+      <last-search encoding="base64">XDwuXD4=</last-search>
       <last-offset />
-      <last-pattern>Validator::</last-pattern>
+      <last-pattern encoding="base64">XDwuXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
