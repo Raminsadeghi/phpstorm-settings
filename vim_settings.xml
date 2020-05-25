@@ -82,10 +82,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/Auth/PasswordResetController.php" timestamp="1590269585952">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="2" column="37" />
-      </file>
       <file name="D:/xampp/htdocs/hero/app/Http/Requestes/GetMobileRequest.php" timestamp="1590270854942">
         <mark key="[" line="30" column="5" />
         <mark key="]" line="31" column="18" />
@@ -103,7 +99,7 @@
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/Auth/MobilesVerificationController.php" timestamp="1590393918746">
+      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/Auth/MobilesVerificationController.php" timestamp="1590394851660">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="24" column="19" />
         <mark key="." line="24" column="18" />
@@ -119,6 +115,11 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Rules/Mobile.php" timestamp="1590395704925">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/xampp/htdocs/hero/app/Traits/IntegersToEngTrait.php" timestamp="1590282973800">
         <mark key="[" line="37" column="0" />
@@ -197,8 +198,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICd1bmlxdWU6dXNlcnMsbW9iaWxlJw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgncGFzc2VzIHJhbWluJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICd1bmlxdWU6dXNlcnMsbW9iaWxlJw==</text>
@@ -210,31 +211,31 @@
         <text>PersianNumbers::toEnglish($parameters[$input])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgncGFzc2VzIHJhbWluJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgncnVsZXMnKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgncnVsZXMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaGknKTtkZAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnaGknKTtkZAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJG1vYmlsZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hpJzsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJG1vYmlsZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
