@@ -103,15 +103,17 @@
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/Auth/MobilesVerificationController.php" timestamp="1590283204256">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/Auth/MobilesVerificationController.php" timestamp="1590393918746">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="19" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Http/Requests/GetMobileRequest.php" timestamp="1590283350478">
-        <mark key="[" line="32" column="45" />
-        <mark key="]" line="32" column="45" />
-        <mark key="." line="32" column="45" />
+      <file name="D:/xampp/htdocs/hero/app/Http/Requests/GetMobileRequest.php" timestamp="1590394249349">
+        <mark key="'" line="9" column="27" />
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="67" />
+        <mark key="." line="32" column="67" />
       </file>
       <file name="D:/xampp/htdocs/hero/app/Http/Kernel.php" timestamp="1590270181820">
         <mark key="[" line="67" column="0" />
@@ -190,15 +192,16 @@
       <jump line="50" column="63" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
       <jump line="18" column="27" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
       <jump line="19" column="17" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
+      <jump line="9" column="27" filename="D:/xampp/htdocs/hero/app/Http/Requests/GetMobileRequest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICd1bmlxdWU6dXNlcnMsbW9iaWxlJw==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICd1bmlxdWU6dXNlcnMsbW9iaWxlJw==</text>
       </register>
       <register name="/" type="4">
         <text>signup</text>
@@ -207,31 +210,31 @@
         <text>PersianNumbers::toEnglish($parameters[$input])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18pOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaCcpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgncnVsZXMnKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18pOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaGknKTtkZAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaCcpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJG1vYmlsZTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaGknKTtkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hpJzsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnJHZhcnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJG1vYmlsZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnJHZhcnMnKTsKICAgICAgICByZXR1cm4gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hpJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
