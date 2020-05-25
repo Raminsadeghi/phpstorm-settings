@@ -13,10 +13,13 @@
         <entry>LoginCOn</entry>
         <entry>LoginCon</entry>
         <entry>name</entry>
-        <entry>auth</entry>
         <entry>mobile</entry>
         <entry>Profiles</entry>
         <entry>illu</entry>
+        <entry>rate</entry>
+        <entry>limit</entry>
+        <entry>auth</entry>
+        <entry>signup</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -79,11 +82,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/xampp/htdocs/hero/app/Listeners/PasswordReset/RevokeOldTokens.php" timestamp="1590226985566">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="D:/xampp/htdocs/hero/app/Http/Controllers/Auth/PasswordResetController.php" timestamp="1590269585952">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="2" column="37" />
@@ -100,21 +98,30 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/xampp/htdocs/hero/resources/lang/fa/voyager.php" timestamp="1590268537217">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="D:/xampp/htdocs/hero/app/Http/Requests/PasswordReset/PasswordResetDo.php" timestamp="1590282249338">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/Auth/MobilesVerificationController.php" timestamp="1590270818802">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="24" column="20" />
-        <mark key="^" line="24" column="20" />
-        <mark key="." line="24" column="19" />
+      <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/Auth/MobilesVerificationController.php" timestamp="1590283204256">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Http/Requests/GetMobileRequest.php" timestamp="1590283350478">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="45" />
       </file>
       <file name="D:/xampp/htdocs/hero/app/Http/Kernel.php" timestamp="1590270181820">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Traits/IntegersToEngTrait.php" timestamp="1590282973800">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/xampp/htdocs/hero/app/Http/Controllers/API/V1/RatingsController.php" timestamp="1590271450037">
         <mark key="[" line="5" column="8" />
@@ -128,23 +135,12 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="D:/xampp/htdocs/hero/resources/lang/fa/enums.php" timestamp="1590268433861">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/resources/lang/en/enums.php" timestamp="1590268325532">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="D:/xampp/htdocs/hero/routes/api-versions/v1.php" timestamp="1590271318008">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="54" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="54" />
+      <file name="D:/xampp/htdocs/hero/routes/api-versions/v1.php" timestamp="1590282423347">
+        <mark key="'" line="19" column="17" />
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1590270259538">
         <mark key="[" line="0" column="0" />
@@ -152,7 +148,23 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="19" />
       </file>
+      <file name="D:/xampp/htdocs/hero/app/Http/Requests/PasswordReset/PasswordResetCreateRequest.php" timestamp="1590282251352">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/xampp/htdocs/hero/app/Models/Rating.php" timestamp="1590271495166" />
+      <file name="D:/xampp/htdocs/hero/app/Validations/MobileValidation.php" timestamp="1590283367565">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/xampp/htdocs/hero/app/Http/Requests/PasswordReset/PasswordResetCodeVerify.php" timestamp="1590282228243">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="42" />
+        <mark key="." line="2" column="41" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="38" filename="D:/xampp/htdocs/godady/resources/views/index.blade.php" />
@@ -175,48 +187,51 @@
       <jump line="2" column="0" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
       <jump line="89" column="27" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
       <jump line="61" column="0" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
+      <jump line="50" column="63" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
+      <jump line="18" column="27" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
+      <jump line="19" column="17" filename="D:/xampp/htdocs/hero/routes/api-versions/v1.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEhlcm9cSHR0cFxSZXNvdXJjZXNcUHVyY2hhc2VSZXNvdXJjZTsKdXNlIEhlcm9cSHR0cFxNaWRkbGV3YXJlXE1vZGVsTGlzdFxGaWx0ZXJzXFVzZXJOYW1lRmlsdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>because o</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>illu</text>
+        <text>signup</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEhlcm9cTGlzdGVuZXJzXFBhc3N3b3JkUmVzZXQ7Cg==</text>
+      <register name="0" type="4">
+        <text>PersianNumbers::toEnglish($parameters[$input])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEhlcm9cSHR0cFxSZXNvdXJjZXNcUHVyY2hhc2VSZXNvdXJjZTsKdXNlIEhlcm9cSHR0cFxNaWRkbGV3YXJlXE1vZGVsTGlzdFxGaWx0ZXJzXFVzZXJOYW1lRmlsdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEhlcm9cTW9kZWxzXEZpbHRlcnNcUHVyY2hhc2VGaWx0ZXI7CnVzZSBIZXJvXEh0dHBcUmVzb3VyY2VzXEFkZHJlc3NSZXNvdXJjZTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEhlcm9cTW9kZWxzXFB1cmNoYXNlUGF5bWVudDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEhlcm9cRW51bXNcUHVyY2hhc2VTdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaGknKTtkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEhlcm9cTW9kZWxzXFNob3A7CnVzZSBIZXJvXE1vZGVsc1xPcmRlcjsKdXNlIEhlcm9cTW9kZWxzXFB1cmNoYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2VyIEF1dGggZG9lc24ndCBub3QgY2hlY2tlZCwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJG1vYmlsZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5yb3V0ZSgpLT51cmkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hpJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnJHZhcnMnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgUm91dGU6Omdyb3VwKFsncHJlZml4JyA9PiAnYmFua3MnXSwgZnVuY3Rpb24gKCkgewovLyAgICAgICAgUm91dGU6OnBvc3QoJycsICdCYW5rQWNjb3VudHNDb250cm9sbGVyQHN0b3JlJyk7Ci8vICAgICAgICBSb3V0ZTo6Z2V0KCcnLCAnQmFua0FjY291bnRzQ29udHJvbGxlckBzaG93Jyk7Ci8vICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgnJHZhcnMnKTsKICAgICAgICByZXR1cm4gW107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -225,9 +240,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>illu</last-search>
+      <last-search>signup</last-search>
       <last-offset />
-      <last-pattern>illu</last-pattern>
+      <last-pattern>signup</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -235,7 +250,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
